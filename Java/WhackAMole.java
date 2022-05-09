@@ -122,4 +122,11 @@ public static void main(String[] args) throws Exception {
          
         return number;
     }
+
+//to do list for Friday
+//output score onto lcd screen
+//end the game once the timer for how long the leds stays on for is almost 0
+//prompt to play again
+//make it a touch instead of a hold to get the points
+//hook up the second hub to attach more buttons and leds
 }
